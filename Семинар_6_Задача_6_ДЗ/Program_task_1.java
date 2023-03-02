@@ -44,7 +44,7 @@ public class Program_task_1 {
         // выводим меню
         while (true) {
             System.out.println("Добро пожаловать!");
-            System.out.println("Выбарите критерий для поиска ноутбуков:");
+            System.out.println("Выберите критерий для поиска ноутбуков:");
             System.out.println("1 - поиск по объему оперативной памяти");
             System.out.println("2 - поиск по объему встроенного накопителя");
             System.out.println("3 - поиск по используемой операционной системе");
